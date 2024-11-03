@@ -1229,6 +1229,7 @@ form .button-area {
   justify-content: center;
 }
 .error span{
+  text-align: center;
   font-size: 7rem;
   color: #011aff;
   height: 10rem;
