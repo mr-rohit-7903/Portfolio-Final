@@ -460,7 +460,7 @@ header .navbar ul li a:hover {
 }
 .skills .container .row {
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   flex-wrap: wrap;
   gap: 1.8rem;
 }
@@ -489,6 +489,7 @@ header .navbar ul li a:hover {
 .skills .container .bar .info span {
   font-size: 2rem;
   font-weight: 500;
+  color: #fff;
   font-family: "Poppins";
   margin-left: 0.5rem;
 }
