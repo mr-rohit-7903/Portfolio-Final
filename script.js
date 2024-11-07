@@ -172,6 +172,12 @@ function showSkills(skills) {
 }
 //Skills Section Ends
 
+// contact section starts 
+//to be done
+
+// contact section ends
+
+
 /* ===== SCROLL REVEAL ANIMATION ===== */
 const srtop = ScrollReveal({
     origin: 'top',
