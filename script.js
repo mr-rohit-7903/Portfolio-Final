@@ -122,7 +122,7 @@ particlesJS("particles-js", {
 
 // typed js effect starts
 var typed = new Typed(".typing-text", {
-    strings: ["frontend development", "competitive programming"],
+    strings: ["web development", "competitive programming"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
